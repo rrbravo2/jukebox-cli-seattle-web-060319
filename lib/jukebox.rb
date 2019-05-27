@@ -34,3 +34,7 @@ elsif songs.include?(user_response)
 else puts "Invalid input, please try again"
  end
 end
+
+def exit_jukebox
+  puts "Goodbye"
+end
