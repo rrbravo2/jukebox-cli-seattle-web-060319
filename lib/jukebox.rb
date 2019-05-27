@@ -60,7 +60,3 @@ elsif user_response == "help"
  end
  exit
 end
-
-
-
-end
